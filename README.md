@@ -21,7 +21,7 @@ The repository contains the following code files in the [symspellpy](https://git
 - [editdistance.py](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/editdistance.py)
 - [helpers.py](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/helpers.py)
 - [symspellpy.py](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/symspellpy.py)
-- [frequency_bigramdictionary_en_243_342.txt](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/frequency_bigramdictionary_en_243_342.txt)[frequency_dictionary_en_82_765.txt](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/frequency_dictionary_en_82_765.txt) dictionary files
+- [frequency_bigramdictionary_en_243_342.txt](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/frequency_bigramdictionary_en_243_342.txt) and [frequency_dictionary_en_82_765.txt](https://github.com/VijendraSRawat/Spell_Corrector/blob/main/symspellpy/frequency_dictionary_en_82_765.txt) are dictionary files
 
 The repository contains the other following code files:
 
